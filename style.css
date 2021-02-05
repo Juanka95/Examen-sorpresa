@@ -1,0 +1,105 @@
+@font-face{
+
+font-family:Sriracha ;
+src: url(fuente/Sriracha-Regular.ttf);
+
+
+}
+
+style{
+
+
+    margin: unset;
+}
+
+
+h1{
+
+    font-family:'Sriracha', sans-serif;
+    background-color: orange;
+    color: white;
+    text-align: center;   
+    margin:auto;
+    padding: 20px;
+    border: unset;
+
+}
+
+nav{
+
+    background-color:cyan;
+
+}
+ul{
+
+    list-style-type: none;
+    
+    
+        
+}
+
+li{
+
+   float:left;
+   border:2px solid;
+   display: inline;
+   margin-right: 10px;
+
+}
+
+a {
+    color:
+    padding: 0 4px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: lightgreen;
+    color:violet;
+  }
+
+  img.steve{
+
+    float: left;
+
+
+  }
+
+  p.vida1{
+
+    color: blue;
+    margin:unset;
+    border-top: blue 15px solid;
+  }
+
+  p.vida2{
+
+    border-bottom: blue 15px solid;
+    color: blue;
+    
+  }
+
+
+
+  p.vida3{
+
+    color: red;
+    border-top: red 15px solid ;
+    border-bottom: red 15px solid;
+    margin-bottom: 200px;
+  }
+
+  img.ordenador{
+
+    float: right;
+    
+
+  }
+
+p.pie{
+
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    font-weight: 900;
+}
